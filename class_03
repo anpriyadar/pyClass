@@ -1,0 +1,55 @@
+# Data Types
+#String .
+#print( type(name)   )
+
+"""name = "python is a programming language"
+modfiedname = name.title()
+print(modfiedname)"""
+
+"""fullname = "PYTHON programming"
+lowercaseName= fullname.lower()
+print(lowercaseName)
+
+fullname = "python programming"
+upperCaseName= fullname.upper()
+print(upperCaseName)
+
+firstName ="Abdul"
+LastName= "kalam"
+
+fullname= f" my name is {firstName} {LastName}"
+print(fullname)
+
+firstName ="Abdul is a great guy"
+splitString =firstName.split(maxsplit=2)
+
+print(splitString)"""
+
+
+"""multilineString = "this is a good programming language"
+
+print(multilineString)"""
+
+statement= "animeshpriyadarshi"
+slicedStatement =statement.count("i")
+
+print(statement)
+print(slicedStatement)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#type function -  type()
+
+
